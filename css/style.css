@@ -9,15 +9,6 @@
   position: relative;
 }
 
-.sidebar {
-  position: absolute;
-  width: 0%;
-  min-height: 100vh;
-  top: 0;
-  left: 0;
-  background-color: #898989;
-}
-
 .width {
   width: 20%;
 }
@@ -50,5 +41,9 @@ span {
   text-align: center;
   line-height: 17px;
   color: white;
+}
+
+.bookInfo {
+  color: black;
 }
 /*# sourceMappingURL=style.css.map */
